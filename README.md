@@ -6,8 +6,8 @@
 <h1 align="center">Hi.. <about> I'm Sahil Channa </about> </h1>
 <h3 align="center">A developer from India.</h3>
 
-<h3 align="right">Connect with me:</h3>
-<p align="right">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://linkedin.com/in/sahil-channa-a027a8250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil-yadav-970398246" height="30" width="40" /></a>
 <a href="https://instagram.com/isahilchanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahil_0288" height="30" width="40" /></a>
 
