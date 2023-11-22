@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/isahilchanna/isahilchanna/blob/master/he.mp4)
+![MasterHead](https://github.com/isahilchanna/isahilchanna/blob/master/he.mp4)
 
 <h1 align="center">Hi.. <about> I'm Sahil Channa </about> </h1>
 <h3 align="center">A developer from India.</h3>
