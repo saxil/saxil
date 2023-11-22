@@ -1,5 +1,4 @@
-[![MasterHead](./5a50cedd-6822-4096-9dd0-6ea5bd2d6431.mp4)](https://github.com/isahilchanna)
-
+[![MasterHead](https://i.pinimg.com/videos/thumbnails/originals/47/31/58/473158589d8c37c05cc414374f5c069a.0000000.jpg)]((https://v1.pinimg.com/videos/mc/720p/47/31/58/473158589d8c37c05cc414374f5c069a.mp4))
 
 
 
