@@ -1,6 +1,10 @@
-[![MasterHead](https://v1.pinimg.com/videos/mc/720p/47/31/58/473158589d8c37c05cc414374f5c069a.mp4)](https://v1.pinimg.com/videos/mc/720p/47/31/58/473158589d8c37c05cc414374f5c069a.mp4)
+[![MasterHead](https://github.com/isahilchanna/isahilchanna/assets/122665949/e40232c7-593c-4471-bff4-b53baefff28d)](https://github.com/isahilchanna/isahilchanna/assets/122665949/e40232c7-593c-4471-bff4-b53baefff28d)
 
-[Video Title]((https://v1.pinimg.com/videos/mc/720p/47/31/58/473158589d8c37c05cc414374f5c069a.mp4))
+
+
+
+
+[Video Title]((https://github.com/isahilchanna/isahilchanna/assets/122665949/e40232c7-593c-4471-bff4-b53baefff28d))
 
 <h1 align="center">Hi.. <about> I'm Sahil Channa </about> </h1>
 <h3 align="center">A developer from India.</h3>
