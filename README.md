@@ -1,6 +1,5 @@
 [![MasterHead]((https://pin.it/iKKXjRv))](github.com/isahilchanna)
-<h1 align="center">Hi... /n  </h1>
-<h1 align='center'>I'm Sahil Channa </h1>
+<h1 align="center">Hi.. <about> I'm Sahil Channa </about> </h1>
 <h3 align="center">A developer from India.</h3>
 <img align="left" alt="Coding" width="400" src="https://i.pinimg.com/originals/ce/e6/34/cee634e06b79e68f66177110db136d24.jpg">
 
