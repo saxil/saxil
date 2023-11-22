@@ -14,5 +14,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=isahilchanna&show_icons=true&locale=en" alt="isahilchanna" /></p>
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](./he.mp4)
 
