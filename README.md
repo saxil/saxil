@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/isahilchanna/isahilchanna/assets/122665949/e40232c7-593c-4471-bff4-b53baefff28d)](https://github.com/isahilchanna/isahilchanna/assets/122665949/e40232c7-593c-4471-bff4-b53baefff28d)
+[coder](https://github.com/isahilchanna/isahilchanna/assets/122665949/e40232c7-593c-4471-bff4-b53baefff28d)
 
 <h1 align="center">Hi.. <about> I'm Sahil Channa </about> </h1>
 <h3 align="center">A developer from India.</h3>
