@@ -1,12 +1,16 @@
-[![MasterHead](https://github.com/isahilchanna/isahilchanna/assets/122665949/51cde984-19e9-4b82-ae0a-58298d48b800)](github.com/isahilchanna)
+[![MasterHead]([https://github.com/isahilchanna/isahilchanna/assets/122665949/51cde984-19e9-4b82-ae0a-58298d48b800](https://github.com/isahilchanna/isahilchanna/assets/122665949/d859e896-04a1-4d1c-87d1-71571380ff64))](github.com/isahilchanna)
 <h1 align="center">Hi , /n  I'm Sahil Channa </h1>
 <h3 align="center">A developer from India.</h3>
 
 
+
+
+
+
 <img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/ce/e6/34/cee634e06b79e68f66177110db136d24.jpg">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="right">Connect with me:</h3>
+<p align="right">
 <a href="https://linkedin.com/in/sahil-channa-a027a8250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil-yadav-970398246" height="30" width="40" /></a>
 <a href="https://instagram.com/isahilchanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahil_0288" height="30" width="40" /></a>
 
