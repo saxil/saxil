@@ -2,7 +2,7 @@
 <h1 align="center">Hi , /n  I'm Sahil Channa </h1>
 <h3 align="center">A developer from India.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="center" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
