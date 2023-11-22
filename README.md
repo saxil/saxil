@@ -1,4 +1,4 @@
-<h1 align="center">Hi.. <about> I'm Sahil Channa 💀 </about> </h1>
+<h1 align="center">Hi..  I'm **Sahil Channa** 💀  </h1>
 <h3 align="center">A developer from India.</h3>
 
 <h3 align="left">Connect with me:</h3>
