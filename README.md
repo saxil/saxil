@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/uaULFlGTpyrNm/giphy.gif)](https://sahil481.github.io/Personal-Website/)
+[![MasterHead](https://media.giphy.com/media/uaULFlGTpyrNm/giphy.gif)]
 <h1 align="center">Hi , I'm Sahil Yadav</h1>
 <h3 align="center">A passionate coder from India.</h3>
 
