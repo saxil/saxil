@@ -2,7 +2,7 @@
 <h1 align="center">Hi , I'm Sahil Yadav</h1>
 <h3 align="center">A passionate coder from India.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/26xBKuuVuNxp8seTS/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/9d9cd2d0a7b5031b75ad71de63e262d4389dac5c4c26ab645e655070bcd5391b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f323678424b757556754e787038736554532f67697068792e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isahilchanna&label=Profile%20views&color=0e75b6&style=flat" alt="isahilchanna" /> </p>
 
