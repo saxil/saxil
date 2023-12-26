@@ -2,8 +2,8 @@
 <h1 align="center">Hi , I'm Sahil Yadav</h1>
 <h3 align="center">A passionate coder from India.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-<iframe src="https://giphy.com/embed/26xBKuuVuNxp8seTS" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/life-office-job-26xBKuuVuNxp8seTS"></a></p>
+<img align="right" alt="Coding" width="400" src="[https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://giphy.com/gifs/life-office-job-26xBKuuVuNxp8seTS)">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isahilchanna&label=Profile%20views&color=0e75b6&style=flat" alt="isahilchanna" /> </p>
 
 <h3 align="left">Connect with me:</h3>
