@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/uaULFlGTpyrNm/giphy.gif)]
+[![MasterHead](https://camo.githubusercontent.com/3e4af3c2d5b42ded03d26ccf8d3ad1aea24d8a3efe64c603c3078c1d38979e6e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7561554c466c47547079724e6d2f67697068792e676966)]
 <h1 align="center">Hi , I'm Sahil Yadav</h1>
 <h3 align="center">A passionate coder from India.</h3>
 
