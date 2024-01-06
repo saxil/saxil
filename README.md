@@ -1,8 +1,6 @@
-[![MasterHead](https://camo.githubusercontent.com/3e4af3c2d5b42ded03d26ccf8d3ad1aea24d8a3efe64c603c3078c1d38979e6e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7561554c466c47547079724e6d2f67697068792e676966)]
 <h1 align="center">Hi , Myself  Sahil </h1>
-
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/9d9cd2d0a7b5031b75ad71de63e262d4389dac5c4c26ab645e655070bcd5391b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f323678424b757556754e787038736554532f67697068792e676966">
-
+<br>
+<h2 align="center"> A developer<h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isahilchanna&label=Profile%20views&color=0e75b6&style=flat" alt="isahilchanna" /> </p>
 
 <h3 align="left">Connect with me:</h3>
