@@ -4,6 +4,7 @@
 
 <h2 align="center"> A developer<h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isahilchanna&label=Profile%20views&color=0e75b6&style=flat" alt="isahilchanna" /> </p>
+<p align="left"> <a href="https://ig.me/isahilchanna" target="blank"><img src="https://img.shields.io/instagram/follow/isahilchanna?logo=instagram&style=for-the-badge" alt="isahilchanna" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
