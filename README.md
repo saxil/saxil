@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python ,Ai, Ml.**
 
-- 📫 How to reach me **sahilchanna344@gmail.com**
+- 📫 How to reach me **github@sahilchanna.me**
 
 - 📄 Know about my experiences [sahilchanna.me](sahilchanna.me)
 
