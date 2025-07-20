@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/beingxahil" target="blank"><img src="https://img.shields.io/twitter/follow/beingxahil?logo=twitter&style=for-the-badge" alt="beingxahil" /></a> </p>
 
-- 🔭 I’m currently working on [StockTracking](https://github.com/saxil/StockTracker)
+- 🔭 I’m currently working on [LearnGPT](https://github.com/saxil/LearGPT)
 
 - 👨‍💻 All of my projects are available at [sahilchanna.me](sahilchanna.me)
 
