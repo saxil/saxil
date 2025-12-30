@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [LearnGPT](https://github.com/saxil/LearGPT)
 
-- 👨‍💻 All of my projects are available at [sahilchanna.me](sahilchanna.me)
+- 👨‍💻 All of my projects are available at [sahilchanna.co.in](sahilchanna.co.in)
 
 - 💬 Ask me about **Python ,Ai, Ml.**
 
 - 📫 How to reach me **github@sahilchanna.me**
 
-- 📄 Know about my experiences [sahilchanna.me](sahilchanna.me)
+- 📄 Know about my experiences [sahilchanna.co.in](sahilchanna.co.in)
 
 - ⚡ Fun fact **i think i am crazy**
 
