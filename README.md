@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sahil Channa</h1>
 <h3 align="center">A passionate AiMl developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/beingxahil" target="blank"><img src="https://img.shields.io/twitter/follow/beingxahil?logo=twitter&style=for-the-badge" alt="beingxahil" /></a> </p>
+<p align="left"> <a href="https://twitter.com/saxilll_" target="blank"><img src="https://img.shields.io/twitter/follow/beingxahil?logo=twitter&style=for-the-badge" alt="saxilll_" /></a> </p>
 
-- 🔭 I’m currently working on [LearnGPT](https://github.com/saxil/LearGPT)
+- 🔭 I’m currently working on [crm](https://github.com/saxil/crm)
 
 - 👨‍💻 All of my projects are available at [sahilchanna.co.in](sahilchanna.co.in)
 
